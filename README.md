@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bugcrusher07
+- 👋 Hi, I’m @bugcrusher07 aka Tarun
 - 👀 I’m interested in Creating Web Apps and Games.
 - 🌱 I’m currently learning the intricate details of how a Web App works and the different tech used at the fundamental level during any operation.
 - 💞️ I’m looking to collaborate on fun and innovative startups and Professional Web Apps.
